@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wishcard</string>
+    <string name="enter_the_name_of_person">Enter the name of person</string>
+    <string name="create_card">Create card</string>
+    <string name="hintText">Mayank</string>
+    <string name="create_birthday_card">Create birthday card</string>
+    <string name="create_anniversary_card">create anniversary card</string>
+
+</resources>
