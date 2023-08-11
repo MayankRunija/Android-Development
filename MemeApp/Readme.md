@@ -13,13 +13,11 @@
 <li>Offers a seamless and engaging experience for meme enthusiasts.</li>
 
 <h3>Screenshots</h3>
-<img src="Screenshot/image1.jpg" heigth="300px"  width="150px" 
-style="grid-template-columns: 1fr 1fr 1fr;column-gap: 5px;display: grid;"
+<img src="Screenshot/image1.jpg" heigth="300px"  width="150px" float: left;
   />
-<img src="Screenshot/image2.jpg" heigth="300px"  width="150px"
-style="grid-template-columns: 1fr 1fr 1fr;column-gap: 5px;display: grid;"
+<img src="Screenshot/image2.jpg" heigth="300px"  width="150px"float: left;
   />
-<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" style="display: grid;grid-template-columns: 1fr 1fr 1fr;column-gap: 5px;" 
+<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" float: left; 
   />
 <p></p>
 <h3>Usage</h3>
