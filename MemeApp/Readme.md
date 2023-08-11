@@ -17,7 +17,7 @@
   />
 <img src="Screenshot/image2.jpg" heigth="400px"  width="200px" align="center"
   />
-<img src="Screenshot/image3.jpg" heigth="400px"  width="200px" align="right"
+<img src="Screenshot/image3.jpg" heigth="400px"  width="200px" align=""
   />
 
 <h3>Usage</h3>
