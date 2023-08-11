@@ -13,11 +13,11 @@
 <li>Offers a seamless and engaging experience for meme enthusiasts.</li>
 
 <h3>Screenshots</h3>
-<img src="Screenshot/image1.jpg" heigth="300px"  width="150px" display:flex;
+<img src="Screenshot/image1.jpg" heigth="300px"  width="150px" align="left"
   />
-<img src="Screenshot/image2.jpg" heigth="300px"  width="150px" display:flex;
+<img src="Screenshot/image2.jpg" heigth="300px"  width="150px" align="center"
   />
-<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" display:flex; 
+<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" align="right"
   />
 
 <h3>Usage</h3>
@@ -38,9 +38,9 @@
 
 
 <h3>Contact</h3>
-If you have any questions, suggestions, or feedback, feel free to contact the project owner Mayank Runija via mickeyruni18@gmail.com.
+If you have any questions, suggestions, or feedback, feel free to contact me via mickeyruni18@gmail.com.
 
-Enjoy sharing and exploring hilarious memes with the Meme Share App! Your feedback and contributions are highly appreciated.
+<h4>Enjoy sharing and exploring hilarious memes with the Meme Share App! Your feedback and contributions are highly appreciated.</h4>
 
 
 
