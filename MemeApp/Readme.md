@@ -13,9 +13,12 @@
 <li>Offers a seamless and engaging experience for meme enthusiasts.</li>
 
 <h3>Screenshots</h3>
-<img/>
-<img/>
-<img/>
+<img src="screenshot/image1.jpg" heigth="400px"  width="200px"
+  />
+<img src="screenshot/image2.jpg" heigth="400px"  width="200px"
+  />
+<img src="screenshot/image3.jpg" heigth="400px"  width="200px"
+  />
 
 <h3>Usage</h3>
 
