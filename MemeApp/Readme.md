@@ -13,13 +13,13 @@
 <li>Offers a seamless and engaging experience for meme enthusiasts.</li>
 
 <h3>Screenshots</h3>
-<img src="Screenshot/image1.jpg" heigth="300px"  width="150px" aglign="right"
+<img src="Screenshot/image1.jpg" heigth="300px"  width="150px" align="left"
   />
 <img src="Screenshot/image2.jpg" heigth="300px"  width="150px" align="center"
   />
-<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" align="rignt" 
+<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" align="right" 
   />
-<p></p>
+
 <h3>Usage</h3>
 
 <li>Upon launching the app, users will be presented with a random meme fetched from Reddit.</li>
