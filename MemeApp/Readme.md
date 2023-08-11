@@ -19,7 +19,7 @@
   />
 <img src="Screenshot/image3.jpg" heigth="300px"  width="150px" align="right"
   />
-
+<p></p>
 <h3>Usage</h3>
 
 <li>Upon launching the app, users will be presented with a random meme fetched from Reddit.</li>
