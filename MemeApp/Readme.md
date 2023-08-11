@@ -17,11 +17,11 @@
 display: grid
 style="grid-template-columns: 1fr 1fr 1fr;column-gap: 5px;"
   />
-<img src="Screenshot/image2.jpg" heigth="300px"  width="150px" align="center"
+<img src="Screenshot/image2.jpg" heigth="300px"  width="150px"
 display: grid
 style="grid-template-columns: 1fr 1fr 1fr;column-gap: 5px;"
   />
-<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" align="right"
+<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" 
 display: grid
 style="grid-template-columns: 1fr 1fr 1fr;column-gap: 5px;" 
   />
