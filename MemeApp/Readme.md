@@ -15,9 +15,9 @@
 <h3>Screenshots</h3>
 <img src="Screenshot/image1.jpg" heigth="300px"  width="150px" float: left;
   />
-<img src="Screenshot/image2.jpg" heigth="300px"  width="150px"float: left;
+<img src="Screenshot/image2.jpg" heigth="300px"  width="150px"float: center;
   />
-<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" float: left; 
+<img src="Screenshot/image3.jpg" heigth="300px"  width="150px" float: right; 
   />
 <p></p>
 <h3>Usage</h3>
