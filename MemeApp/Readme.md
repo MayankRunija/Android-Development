@@ -28,7 +28,7 @@
 
 
 <h3>Contributions</h3>
-<h4>Contributions to the Meme Share App are welcome! If you'd like to contribute:</h4>
+<b>Contributions to the Meme Share App are welcome! If you'd like to contribute:</b>
 
 <li>Fork the repository.</li>
 <li>Create a new branch for your feature or bug fix.</li>
@@ -40,7 +40,7 @@
 <h3>Contact</h3>
 If you have any questions, suggestions, or feedback, feel free to contact me via mickeyruni18@gmail.com.
 
-<h4>Enjoy sharing and exploring hilarious memes with the Meme Share App! Your feedback and contributions are highly appreciated.</h4>
+<b>Enjoy sharing and exploring hilarious memes with the Meme Share App! Your feedback and contributions are highly appreciated.</b>
 
 
 
